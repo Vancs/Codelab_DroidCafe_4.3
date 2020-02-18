@@ -28,8 +28,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.android.droidcafeoptions.OrderActivity" />
+        <activity
+            android:name="com.example.android.droidcafeoptions.OrderActivity"
+            android:label="@string/title_activity_order"
+            android:parentActivityName="com.example.android.droidcafeoptions.MainActivity" />
 
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value=".MainActivity" />
         <meta-data
             android:name="android.support.VERSION"
             android:value="26.1.0" />

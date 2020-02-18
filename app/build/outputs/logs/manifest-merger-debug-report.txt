@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Vancs\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:3:1-26:12
-INJECTED from C:\Users\Vancs\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:3:1-26:12
-INJECTED from C:\Users\Vancs\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:3:1-26:12
-INJECTED from C:\Users\Vancs\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:3:1-26:12
+ADDED from C:\Users\Vancs\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:3:1-31:12
+INJECTED from C:\Users\Vancs\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:3:1-31:12
+INJECTED from C:\Users\Vancs\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:3:1-31:12
+INJECTED from C:\Users\Vancs\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:3:1-31:12
 MERGED from [com.android.support:design:26.1.0] C:\Users\Vancs\.gradle\caches\transforms-2\files-2.1\20002896a77046aac10817efbb717d4b\design-26.1.0\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Vancs\.gradle\caches\transforms-2\files-2.1\3c115bd9f6556a7430ab54a2645aa55d\appcompat-v7-26.1.0\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Vancs\.gradle\caches\transforms-2\files-2.1\cb20b76ed225fe8217fdebe6b4cd159d\constraint-layout-1.0.2\AndroidManifest.xml:2:1-11:12
@@ -18,25 +18,25 @@ MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Vancs\.grad
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Vancs\.gradle\caches\transforms-2\files-2.1\258048e6c61d4b5456510532346e8c01\support-core-ui-26.1.0\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Vancs\.gradle\caches\transforms-2\files-2.1\19640d657814c0deaea3c9f8ce878766\support-compat-26.1.0\AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Vancs\.gradle\caches\transforms-2\files-2.1\cbd00f137ffe055a54edb27e1642d0f7\runtime-1.0.0\AndroidManifest.xml:17:1-30:12
-INJECTED from C:\Users\Vancs\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:3:1-26:12
-INJECTED from C:\Users\Vancs\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:3:1-26:12
-INJECTED from C:\Users\Vancs\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:3:1-26:12
+INJECTED from C:\Users\Vancs\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:3:1-31:12
+INJECTED from C:\Users\Vancs\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:3:1-31:12
+INJECTED from C:\Users\Vancs\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:3:1-31:12
 	package
 		ADDED from C:\Users\Vancs\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:4:5-51
 		INJECTED from C:\Users\Vancs\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Vancs\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Vancs\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Vancs\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:3:1-26:12
+		ADDED from C:\Users\Vancs\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:3:1-31:12
 		INJECTED from C:\Users\Vancs\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Vancs\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Vancs\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:3:1-26:12
+		ADDED from C:\Users\Vancs\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:3:1-31:12
 		INJECTED from C:\Users\Vancs\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Vancs\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:3:11-69
 application
-ADDED from C:\Users\Vancs\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:6:5-24:19
+ADDED from C:\Users\Vancs\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:6:5-29:19
 MERGED from [com.android.support:design:26.1.0] C:\Users\Vancs\.gradle\caches\transforms-2\files-2.1\20002896a77046aac10817efbb717d4b\design-26.1.0\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:design:26.1.0] C:\Users\Vancs\.gradle\caches\transforms-2\files-2.1\20002896a77046aac10817efbb717d4b\design-26.1.0\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Vancs\.gradle\caches\transforms-2\files-2.1\3c115bd9f6556a7430ab54a2645aa55d\appcompat-v7-26.1.0\AndroidManifest.xml:25:5-29:19
@@ -96,9 +96,19 @@ ADDED from C:\Users\Vancs\AndroidStudioProjects\DroidCafeOptions\app\src\main\An
 	android:name
 		ADDED from C:\Users\Vancs\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:20:27-74
 activity#com.example.android.droidcafeoptions.OrderActivity
-ADDED from C:\Users\Vancs\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:23:9-51
+ADDED from C:\Users\Vancs\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:23:9-26:57
+	android:parentActivityName
+		ADDED from C:\Users\Vancs\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:26:13-55
+	android:label
+		ADDED from C:\Users\Vancs\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:25:13-57
 	android:name
-		ADDED from C:\Users\Vancs\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:23:19-48
+		ADDED from C:\Users\Vancs\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:24:13-42
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\Vancs\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:27:13-28:48
+	android:value
+		ADDED from C:\Users\Vancs\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:28:17-46
+	android:name
+		ADDED from C:\Users\Vancs\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:27:24-70
 uses-sdk
 INJECTED from C:\Users\Vancs\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Vancs\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml
